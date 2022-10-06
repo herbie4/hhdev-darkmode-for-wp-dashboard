@@ -5,4 +5,6 @@
 
 <img src="/images/dark-mode-for-wp-user-scheme.png" />
 
+## Example of darkmode scheme in profile
+
 <img src="/images/dark-mode-for-wp-user-scheme-profile.png" />
