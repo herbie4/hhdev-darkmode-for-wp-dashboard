@@ -4,3 +4,5 @@
 ## Example of activated darkmode scheme
 
 <img src="/images/dark-mode-for-wp-user-scheme.png" />
+
+<img src="/images/dark-mode-for-wp-user-scheme-profile.png" />
