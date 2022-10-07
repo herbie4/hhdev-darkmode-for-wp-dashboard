@@ -9,6 +9,11 @@
  * Button mixin- creates a button effect with correct
  * highlights/shadows, based on a base color.
  */
+ 
+ /* avada support */
+ 
+ @import url(dark-mode-avada.css);
+ 
 body {
   background: #23282d;
 }

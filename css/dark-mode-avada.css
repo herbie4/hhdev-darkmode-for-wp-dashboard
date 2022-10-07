@@ -1,0 +1,20 @@
+/**
+ * Dark Mode for Avada in WP Dashboard
+ */
+.avada-dashboard .avada-db-header-main, 
+.avada-dashboard .avada-db-header-sticky, 
+.fusionredux-container #fusionredux-form-wrapper .fusionredux-main,
+.fusionredux-container #fusionredux-form-wrapper .fusionredux-main #fusionredux-sticky #info_bar,
+.fusionredux-container #fusionredux-footer,
+.fusion-body .avada-db-card,
+.avada-dashboard.avada-db-sliders .wrap {
+  background-color: #23282d !important;
+}
+
+#wpcontent .avada-dashboard { color: #ccc;}
+
+.fusion-body .avada-db-card .avada-db-card-notice,
+.fusion-body .avada-db-card, 
+.avada-dashboard .avada-db-welcome-setup .avada-db-welcome-container {
+background-color: #333 !important; 
+}

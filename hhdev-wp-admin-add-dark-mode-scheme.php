@@ -26,6 +26,7 @@ add_action('admin_init', 'hhdev_additional_admin_color_schemes');
 // force set default color scheme to darkmode
 // SET OFF
 function hhdev_update_user_option_admin_color( $color_scheme ) {
+
     $color_scheme = 'darkmode';
 
     return $color_scheme;
@@ -36,9 +37,10 @@ function hhdev_update_user_option_admin_color( $color_scheme ) {
 change log
 1.0.1 initial relaease
 1.0.2 color array update
+1.0.3 added Avada theme dark css
 */
 
 /*
 TO DO
-* add support for avada dark mode
+* add support for other themes dark modes
 */
