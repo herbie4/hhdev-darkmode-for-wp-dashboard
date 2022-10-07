@@ -12,6 +12,7 @@
 ### Change log
 1.0.1 initial relaease
 1.0.2 color array update
+1.0.3 added avada the dark mode css
 
 ### To do
-* add support for avada dark mode
+* add support for other themes dark mode
