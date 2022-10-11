@@ -10,9 +10,10 @@
 <img src="/images/dark-mode-for-wp-user-scheme-profile.png" />
 
 ### Change log
-1.0.1 initial relaease
-1.0.2 color array update
-1.0.3 added avada the dark mode css
+* 1.0.1 initial release
+* 1.0.2 color array update
+* 1.0.3 added avada the dark mode css
 
 ### To do
+* ~~Add Avada theme dark mode css~~
 * add support for other themes dark mode
