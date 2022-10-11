@@ -13,6 +13,7 @@
  /* avada support */
  
  @import url(dark-mode-avada.css);
+ @import url(dark-mode-flatsome.css);
  
 body {
   background: #23282d;
@@ -926,7 +927,7 @@ body.wp-admin:not(.gutenberg-editor-page) #wpfooter .notice,
 body.wp-admin:not(.gutenberg-editor-page) #wpfooter .error,
 body.wp-admin:not(.gutenberg-editor-page) #wpfooter .updated,
 body.wp-admin:not(.gutenberg-editor-page) #wpfooter .update-nag {
-  background-color: #191f25;
+  background-color: #008080;
 }
 body.wp-admin:not(.gutenberg-editor-page) #wpbody .notice p,
 body.wp-admin:not(.gutenberg-editor-page) #wpbody .updated p,

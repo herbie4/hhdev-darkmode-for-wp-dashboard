@@ -5,7 +5,7 @@
  * Description: Add dark mode scheme for the WordPress dashboard user profile. Based on the Dark Mode for WP Dashboard CSS file.
  * Author: herbert hoekstra - haha.nl - hrbrt.dev
  * Author URI: https://haha.nl
- * Version: 1.0.3
+ * Version: 1.0.4
  */
 
  if ( ! defined( 'ABSPATH' ) ) {
@@ -38,6 +38,7 @@ change log
 1.0.1 initial relaease
 1.0.2 color array update
 1.0.3 added Avada theme dark css
+1.0.4 added flatsome theme dark css
 */
 
 /*
