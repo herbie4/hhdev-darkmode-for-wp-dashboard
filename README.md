@@ -13,6 +13,7 @@
 * 1.0.1 initial release
 * 1.0.2 color array update
 * 1.0.3 added avada the dark mode css
+* 1.0.4 added flatsome theme dark css
 
 ### To do
 * ~~Add Avada theme dark mode css~~
