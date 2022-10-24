@@ -1,0 +1,20 @@
+/* darkmode css for limit login attempts */
+
+/* dashboard widgets */
+
+#llar-admin-dashboard-widgets .llar-widget { background-color: initial !important;}
+
+/* plugin dashboard */
+#llar-header-upgrade-message { background-color: initial !important;}
+
+#llar-dashboard-page .dashboard-section-1,
+#llar-dashboard-page .dashboard-section-2,
+#llar-dashboard-page .dashboard-section-3,
+#llar-dashboard-page .dashboard-section-4,
+#llar-dashboard-page .dashboard-section-4 > [class^="info-box-"] { background-color: initial !important;}
+
+#llar-dashboard-page .dashboard-section-4 .info-box-1 .lockouts-by-country-table tr:nth-child(2n+1) td {
+  background-color: #444 !important;
+}
+
+.ui-widget-content { background: initial !important; }
